@@ -34,7 +34,7 @@
 
 12.4. [SQL. Часть 2](https://github.com/OctaPod/Homework5/blob/main/12-04.md)
 
-12.5. [Индексы](https://github.com/netology-code/sdb-homeworks/blob/main/12-05.md)
+12.5. [Индексы]
 
 12.6. [Репликация и масштабирование. Часть 1](https://github.com/netology-code/sdb-homeworks/blob/main/12-06.md)
 
