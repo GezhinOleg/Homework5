@@ -28,7 +28,7 @@
 
 12.8. [Резервное копирование. ](https://github.com/OctaPod/Homework5/blob/main/12/12-08.md)
 
-12.9. [Базы данных в облаке](https://github.com/netology-code/sdb-homeworks/blob/main/12/12-09.md)
+12.9. [Базы данных в облаке](https://github.com/OctaPod/Homework5/blob/main/12/12-09.md)
 
 
 ## Модуль 13. Информационная безопасность
