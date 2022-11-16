@@ -35,8 +35,8 @@
 
 13.1. [Уязвимости и атаки на информационные системы](https://github.com/OctaPod/Homework5/blob/main/13/13-01.md)
 
-13.2. [Защита хоста](https://github.com/netology-code/sdb-homeworks/blob/main/13-02.md)
+13.2. [Защита хоста](https://github.com/OctaPod/Homework5/blob/main/13/13-02.md)
 
-13.3. [Защита сети](https://github.com/netology-code/sdb-homeworks/blob/main/13-03.md)
+13.3. [Защита сети](https://github.com/OctaPod/Homework5/blob/main/13/13-03.md)
 
 13.4. [Best practices современной информационной безопасности]()
